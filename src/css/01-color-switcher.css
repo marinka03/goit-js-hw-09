@@ -1,0 +1,19 @@
+body {
+    min-height: 100vh;
+    /* display: flex; */
+    /* justify-content: flex-start; */
+    /* gap: 400px; */
+}
+
+.container-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.btn-start,
+.btn-stop {
+    width: 120px;
+    height: 45px;
+    font-size: 25px;
+}
